@@ -1,0 +1,45 @@
+{
+  "_说明": "改完 push 即可，GitHub Actions 每 6 小时自动重跑一次",
+
+  "live_sources": [
+    {
+      "name": "iptv-org 中国大陆",
+      "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u"
+    },
+    {
+      "name": "iptv-org 香港",
+      "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/hk.m3u"
+    },
+    {
+      "name": "iptv-org 台湾",
+      "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u"
+    },
+    {
+      "name": "范明明 Global",
+      "url": "https://live.fanmingming.com/tv/m3u/global.m3u"
+    },
+    {
+      "name": "YanG 集合源",
+      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"
+    }
+  ],
+
+  "live_include_keywords": [],
+  "live_exclude_keywords": ["色情", "成人", "XXX", "Porn"],
+
+  "_tvbox说明": "这三个源是 TVBox 点播爬虫配置，SenPlayer 用不了，只做原样聚合给影视仓/猫影视用",
+  "tvbox_sources": [
+    {
+      "name": "cysk003 AV",
+      "url": "https://raw.githubusercontent.com/cysk003/XPTV/refs/heads/main/VOD/AV.json"
+    },
+    {
+      "name": "fangkuia XPTV",
+      "url": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/VOD/XPTV.json"
+    },
+    {
+      "name": "xiaobaitulele all_direct",
+      "url": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/main/all_direct.json"
+    }
+  ]
+}
