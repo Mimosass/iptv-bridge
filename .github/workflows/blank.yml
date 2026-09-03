@@ -1,0 +1,41 @@
+name: 更新订阅
+
+on:
+  schedule:
+    # 每 6 小时跑一次（UTC 时间，对应北京时间的 2 / 8 / 14 / 20 点）
+    - cron: '18 */6 * * *'
+  push:
+    paths:
+      - 'config.json'
+      - 'scripts/**'
+  workflow_dispatch:    # 允许在 Actions 页面手动点一下立即更新
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 配置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 抓取上游并生成订阅
+        run: python3 scripts/build.py
+
+      - name: 提交更新
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          if git diff --staged --quiet; then
+            echo "内容无变化，跳过提交"
+          else
+            git commit -m "chore: 自动更新订阅 $(date '+%Y-%m-%d %H:%M')"
+            git push
+          fi
