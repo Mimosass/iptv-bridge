@@ -859,6 +859,8 @@ http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
 http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="Kangba TV" group-title="iptv-org 中国大陆",Kangba TV
 http://110.185.237.164:8888/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="Chuxiong News Channel [Not 24/7]" group-title="iptv-org 中国大陆",Chuxiong News Channel [Not 24/7]
+http://hwapi.yntv.net/ew265l/848y54.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV Asia (720p)" group-title="iptv-org 香港",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV Asia Live Event (720p)" group-title="iptv-org 香港",Bloomberg TV Asia Live Event (720p)
@@ -895,6 +897,18 @@ https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 #EXTINF:-1 tvg-name="耀才財經台 (576p)" group-title="iptv-org 香港",耀才財經台 (576p)
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-name="Asian Drama (1080p)" group-title="iptv-org 香港",Asian Drama (1080p)
+http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+#EXTINF:-1 tvg-name="Mei Ah Movie Channel (1080p)" group-title="iptv-org 香港",Mei Ah Movie Channel (1080p)
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+#EXTINF:-1 tvg-name="Mei Ah Movie Channel (1080p)" group-title="iptv-org 香港",Mei Ah Movie Channel (1080p)
+http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
+#EXTINF:-1 tvg-name="Mei Ah Movie Channel (1080p)" group-title="iptv-org 香港",Mei Ah Movie Channel (1080p)
+http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
+#EXTINF:-1 tvg-name="Jade (1080p)" group-title="iptv-org 香港",Jade (1080p)
+http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+#EXTINF:-1 tvg-name="Golden Jade (1080p)" group-title="iptv-org 香港",Golden Jade (1080p)
+http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 tvg-name="Beautiful Life TV" group-title="iptv-org 台湾",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-name="CGNTV Chinese (1080p)" group-title="iptv-org 台湾",CGNTV Chinese (1080p)
