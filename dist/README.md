@@ -1,6 +1,6 @@
 # 订阅聚合报告
 
-生成时间：2026-09-15 05:51:35 (UTC+8)
+生成时间：2026-09-15 12:57:46 (UTC+8)
 
 ## SenPlayer 订阅地址
 
@@ -20,14 +20,14 @@ https://cdn.jsdelivr.net/gh/<你的用户名>/<仓库名>@<分支>/dist/live.m3u
 
 ## 本次直播源统计
 
-- 上游原始条目：707
-- 去重后频道：535
-- 输出播放线路：634
+- 上游原始条目：708
+- 去重后频道：536
+- 输出播放线路：635
 
 | 上游源 | 状态 | 抓到条目 |
 | --- | --- | --- |
 | iptv-org 中国大陆 | ✅ | 503 |
-| iptv-org 香港 | ✅ | 25 |
+| iptv-org 香港 | ✅ | 26 |
 | iptv-org 台湾 | ✅ | 52 |
 | 范明明 Global | ❌ 抓取失败 https://live.fanmingming.com/tv/m3u/global.m3u：HTTP Err | 0 |
 | YanG 集合源 | ✅ | 127 |
@@ -41,7 +41,7 @@ https://cdn.jsdelivr.net/gh/<你的用户名>/<仓库名>@<分支>/dist/live.m3u
 | iptv-org 台湾 | 51 |
 | •咪咕「移动」 | 42 |
 | •影视「轮播」 | 27 |
-| iptv-org 香港 | 19 |
+| iptv-org 香港 | 20 |
 | •温馨「提示」 | 4 |
 
 ## TVBox 点播源（SenPlayer 不可用）

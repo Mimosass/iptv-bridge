@@ -453,6 +453,7 @@ iptv-org 香港_Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/
 iptv-org 香港_Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
 iptv-org 香港_Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 iptv-org 香港_Golden Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+iptv-org 香港_tvN Asia HD (720p),http://58.8.186.128:10005/bysid/2518
 iptv-org 台湾_Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 iptv-org 台湾_CGNTV Chinese (1080p),https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 iptv-org 台湾_CTi Variety (中天綜合台) (720p),http://23.237.10.66:16372
