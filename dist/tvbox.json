@@ -439,6 +439,12 @@
       "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/cyfz_tu.js"
     },
     {
+      "name": "[兔]2k动漫(无搜索)🌸",
+      "type": 3,
+      "api": "csp_2ksp_tu",
+      "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/2ksp_tu.js"
+    },
+    {
       "name": "[兔]次元城动画🌸",
       "type": 3,
       "api": "csp_cyc_tu",
@@ -451,6 +457,6 @@
       "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/yuezhici_tu.js"
     }
   ],
-  "_generated_at": "2026-09-16 05:23:52 (UTC+8)",
-  "_site_count": 75
+  "_generated_at": "2026-09-16 12:52:53 (UTC+8)",
+  "_site_count": 76
 }
