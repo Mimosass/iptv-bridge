@@ -1,6 +1,6 @@
 # 订阅聚合报告
 
-生成时间：2026-09-16 12:52:53 (UTC+8)
+生成时间：2026-09-16 19:39:52 (UTC+8)
 
 ## SenPlayer 订阅地址
 
@@ -46,13 +46,13 @@ https://cdn.jsdelivr.net/gh/<你的用户名>/<仓库名>@<分支>/dist/live.m3u
 
 ## TVBox 点播源（SenPlayer 不可用）
 
-- 合并去重后站点：76
+- 合并去重后站点：80
 
 | 上游源 | 状态 | 站点数 |
 | --- | --- | --- |
 | cysk003 AV | ✅ | 29 |
 | fangkuia XPTV | ✅ | 21 |
-| xiaobaitulele all_direct | ✅ | 26 |
+| xiaobaitulele all_direct | ✅ | 30 |
 
 > 这三个上游是 TVBox 的 CSP 爬虫站配置，不是播放地址，SenPlayer 无法消费。
 > 这里只做原样聚合，供影视仓 / 猫影视 / TVBox 使用。
