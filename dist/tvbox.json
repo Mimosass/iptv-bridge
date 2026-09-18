@@ -391,6 +391,12 @@
       "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/guazi_tu.js"
     },
     {
+      "name": "[兔]欧飞影音(限台湾播放)www.ofiii.com🎬",
+      "type": 3,
+      "api": "csp_ofiii_tu",
+      "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/ofiii_tu.js"
+    },
+    {
       "name": "[兔]低端影视🎬",
       "type": 3,
       "api": "csp_ddysio_tu",
@@ -493,6 +499,6 @@
       "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/11kt_tu.js"
     }
   ],
-  "_generated_at": "2026-09-18 19:19:48 (UTC+8)",
-  "_site_count": 82
+  "_generated_at": "2026-09-19 00:27:06 (UTC+8)",
+  "_site_count": 83
 }
