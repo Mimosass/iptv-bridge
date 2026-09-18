@@ -361,6 +361,12 @@
       "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/maihaolian_tu.js"
     },
     {
+      "name": "[兔]美剧2046🎬️",
+      "type": 3,
+      "api": "csp_meiju2046_tu",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/meiju2046_tu.js"
+    },
+    {
       "name": "[兔]网飞猫🎬",
       "type": 3,
       "api": "csp_wangfeimao_tu",
@@ -371,6 +377,12 @@
       "type": 3,
       "api": "csp_juzong_tu",
       "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/juzong_tu.js"
+    },
+    {
+      "name": "[兔]瓜子app🎬",
+      "type": 3,
+      "api": "csp_guaziapp_tu",
+      "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/guaziapp_tu.js"
     },
     {
       "name": "[兔]瓜子web🎬",
@@ -481,6 +493,6 @@
       "ext": "https://raw.githubusercontent.com/xiaobaitulele/xptv/refs/heads/main/vod/11kt_tu.js"
     }
   ],
-  "_generated_at": "2026-09-18 12:47:52 (UTC+8)",
-  "_site_count": 80
+  "_generated_at": "2026-09-18 19:19:48 (UTC+8)",
+  "_site_count": 82
 }

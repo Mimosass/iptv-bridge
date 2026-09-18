@@ -506,10 +506,6 @@ iptv-org 台湾_TVBS News (TVBS新聞台) [Geo-blocked],http://seb.sason.top/sc/
 iptv-org 台湾_台视 (720p),http://162.19.247.76:22222/live/taishi/index.m3u8
 iptv-org 台湾_唯心電視 (480p),https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 iptv-org 台湾_MOMO TV (1080p),http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
-•温馨「提示」_免费订阅：请勿贩卖...,https://material.1989.click/v/302.mp4
-•温馨「提示」_维护时间：2025-1-15#佛系维护...,https://material.1989.click/v/301.mp4
-•温馨「提示」_维护内容：维护 Gather「删除 •IPV6 源」,https://material.1989.click/v/302.mp4
-•温馨「提示」_公告说明：IPV6 暂无,https://material.1989.click/v/301.mp4
 •咪咕「移动」_睛彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 •咪咕「移动」_睛彩青少「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 •咪咕「移动」_睛彩竞技「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
@@ -553,83 +549,83 @@ iptv-org 台湾_MOMO TV (1080p),http://nmk.ioapk.com:5050/4gtv-live107/index.m3u
 •咪咕「移动」_咪咕直播 𝟛𝟝「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
 •咪咕「移动」_咪咕直播 𝟛𝟞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 •游戏「赛事」_「B站」热门赛事,http://dns.yiandrive.com:15907/bilibili/10
-•游戏「赛事」_「B站」CS 2,https://cdn-3.ttvb.eu.org/bilibili/21622811
-•游戏「赛事」_「虎牙」CS 2,https://cdn-3.ttvb.eu.org/huya/483917
-•游戏「赛事」_「B站」英雄联盟,https://cdn-3.ttvb.eu.org/bilibili/6
-•游戏「赛事」_「虎牙」英雄联盟 𝟙,https://cdn-3.ttvb.eu.org/huya/660000
-•游戏「赛事」_「虎牙」英雄联盟 𝟚,https://cdn-3.ttvb.eu.org/huya/660001
-•游戏「赛事」_「斗鱼」英雄联盟 𝟙,https://cdn-3.ttvb.eu.org/douyu/288016
-•游戏「赛事」_「斗鱼」英雄联盟 𝟚,https://cdn-3.ttvb.eu.org/douyu/424559
-•游戏「赛事」_「B站」英雄联盟•手游,https://cdn-3.ttvb.eu.org/bilibili/23138275
-•游戏「赛事」_「B站」王者荣耀 𝟙,https://cdn-3.ttvb.eu.org/bilibili/55
-•游戏「赛事」_「B站」王者荣耀 𝟚,https://cdn-3.ttvb.eu.org/bilibili/21654762
-•游戏「赛事」_「虎牙」王者荣耀 𝟙,https://cdn-3.ttvb.eu.org/huya/660002
-•游戏「赛事」_「虎牙」王者荣耀 𝟚,https://cdn-3.ttvb.eu.org/huya/660164
-•游戏「赛事」_「斗鱼」王者荣耀 𝟙,https://cdn-3.ttvb.eu.org/douyu/1863767
-•游戏「赛事」_「斗鱼」王者荣耀 𝟚,https://cdn-3.ttvb.eu.org/douyu/1984839
-•游戏「赛事」_「B站」绝地求生,https://cdn-3.ttvb.eu.org/bilibili/98
-•游戏「赛事」_「虎牙」绝地求生 𝟙,https://cdn-3.ttvb.eu.org/huya/660004
-•游戏「赛事」_「虎牙」绝地求生 𝟚,https://cdn-3.ttvb.eu.org/huya/660005
-•游戏「赛事」_「斗鱼」绝地求生,https://cdn-3.ttvb.eu.org/douyu/100
-•游戏「赛事」_「虎牙」和平精英,https://cdn-3.ttvb.eu.org/huya/660006
-•游戏「赛事」_「斗鱼」和平精英,https://cdn-3.ttvb.eu.org/douyu/999
-•游戏「赛事」_「虎牙」金铲铲之战,https://cdn-3.ttvb.eu.org/huya/660579
-•游戏「赛事」_「斗鱼」金铲铲之战,https://cdn-3.ttvb.eu.org/douyu/9715241
-•游戏「赛事」_「虎牙」DOTA2,https://cdn-3.ttvb.eu.org/huya/660118
-•游戏「赛事」_「斗鱼」DOTA2,https://cdn-3.ttvb.eu.org/douyu/3811559
-•游戏「赛事」_「斗鱼」云顶之弈,https://cdn-3.ttvb.eu.org/douyu/522423
-•游戏「赛事」_「虎牙」永劫无间,https://cdn-3.ttvb.eu.org/huya/660115
-•游戏「赛事」_「斗鱼」永劫无间,https://cdn-3.ttvb.eu.org/huya/9662891
-•游戏「赛事」_「B站」使命召唤•手游,https://cdn-3.ttvb.eu.org/bilibili/22741849
-•游戏「赛事」_「虎牙」使命召唤•手游,https://cdn-3.ttvb.eu.org/huya/11718629
-•游戏「赛事」_「斗鱼」使命召唤•手游,https://cdn-3.ttvb.eu.org/douyu/9223245
-•游戏「赛事」_「虎牙」穿越火线,https://cdn-3.ttvb.eu.org/huya/660101
-•游戏「赛事」_「斗鱼」穿越火线 𝟙,https://cdn-3.ttvb.eu.org/douyu/605964
-•游戏「赛事」_「斗鱼」穿越火线 𝟚,https://cdn-3.ttvb.eu.org/douyu/5388537
-•游戏「赛事」_「虎牙」穿越火线•手游,https://cdn-3.ttvb.eu.org/huya/660102
-•游戏「赛事」_「B站」第五人格,https://cdn-3.ttvb.eu.org/bilibili/5555
-•游戏「赛事」_「虎牙」第五人格,https://cdn-3.ttvb.eu.org/huya/idvesports
-•游戏「赛事」_「斗鱼」第五人格,https://cdn-3.ttvb.eu.org/douyu/3226194
-•游戏「赛事」_「虎牙」逆战,https://cdn-3.ttvb.eu.org/huya/nsl2021
-•游戏「赛事」_「B站」无畏契约,https://cdn-3.ttvb.eu.org/bilibili/22908869
-•游戏「赛事」_「虎牙」无畏契约,https://cdn-3.ttvb.eu.org/huya/660679
-•游戏「赛事」_「斗鱼」无畏契约,https://cdn-3.ttvb.eu.org/douyu/4585645
-•游戏「赛事」_「斗鱼」原神,https://cdn-3.ttvb.eu.org/douyu/10853239
-•游戏「赛事」_「B站」QQ飞车•手游,https://cdn-3.ttvb.eu.org/bilibili/21743919
-•游戏「赛事」_「斗鱼」QQ飞车•手游,https://cdn-3.ttvb.eu.org/douyu/5040227
-•游戏「赛事」_「斗鱼」梦幻西游·手游,https://cdn-3.ttvb.eu.org/huya/9163712
-•游戏「赛事」_「斗鱼」街霸,https://cdn-3.ttvb.eu.org/huya/11437
-•游戏「赛事」_「B站」JJ斗地主,https://cdn-3.ttvb.eu.org/bilibili/22021983
-•游戏「赛事」_「斗鱼」JJ斗地主,https://cdn-3.ttvb.eu.org/douyu/488743
-•游戏「赛事」_「斗鱼」我的世界,https://cdn-3.ttvb.eu.org/douyu/738878
-•游戏「赛事」_「斗鱼」FIFA,https://cdn-3.ttvb.eu.org/douyu/7692166
-•游戏「赛事」_「斗鱼」火影忍者,https://cdn-3.ttvb.eu.org/douyu/1997723
-•游戏「赛事」_「斗鱼」跑跑卡丁车,https://cdn-3.ttvb.eu.org/douyu/7722576
-•游戏「赛事」_「斗鱼」跑跑卡丁车•手游,https://cdn-3.ttvb.eu.org/douyu/6672862
-•影视「轮播」_音乐石榴「音乐」,https://cdn-3.ttvb.eu.org/huya/17091681
-•影视「轮播」_音乐速递「音乐」,https://cdn-3.ttvb.eu.org/huya/19439762
-•影视「轮播」_治愈•放松「音乐」,https://cdn-3.ttvb.eu.org/huya/21241811
-•影视「轮播」_阅读•学习「音乐」,https://cdn-3.ttvb.eu.org/huya/21241813
-•影视「轮播」_电视剧•1「解说」,https://cdn-3.ttvb.eu.org/huya/21277391
-•影视「轮播」_电视剧•2「解说」,https://cdn-3.ttvb.eu.org/huya/25018873
-•影视「轮播」_电影•1「解说」,https://cdn-3.ttvb.eu.org/huya/20289754
-•影视「轮播」_电影•2「解说」,https://cdn-3.ttvb.eu.org/huya/24983280
-•影视「轮播」_电影•3「解说」,https://cdn-3.ttvb.eu.org/huya/24396428
-•影视「轮播」_动漫•1「解说」,https://cdn-3.ttvb.eu.org/huya/19757963
-•影视「轮播」_恐怖电影「解说」,https://cdn-3.ttvb.eu.org/huya/23419131
-•影视「轮播」_漫威「解说」,https://cdn-3.ttvb.eu.org/huya/17089779
-•影视「轮播」_美剧「解说」,https://cdn-3.ttvb.eu.org/huya/20488841
-•影视「轮播」_七龙珠「解说」,https://cdn-3.ttvb.eu.org/huya/25650806
-•影视「轮播」_止戈电影「解说」,https://cdn-3.ttvb.eu.org/huya/19863777
-•影视「轮播」_挨饿德•1「其他」,https://cdn-3.ttvb.eu.org/huya/20985858
-•影视「轮播」_挨饿德•2「其他」,https://cdn-3.ttvb.eu.org/huya/17693860
-•影视「轮播」_互扇巴掌大赛「其他」,https://cdn-3.ttvb.eu.org/huya/20072873
-•影视「轮播」_荒野求生「其他」,https://cdn-3.ttvb.eu.org/huya/593667
-•影视「轮播」_野行者「其他」,https://cdn-3.ttvb.eu.org/huya/20072663
-•影视「轮播」_跳舞「其他」,https://cdn-3.ttvb.eu.org/huya/24634408
-•影视「轮播」_茶啊二中「动画」,https://cdn-3.ttvb.eu.org/huya/11213191
-•影视「轮播」_哆啦A梦「动漫」,https://cdn-3.ttvb.eu.org/huya/11601963
-•影视「轮播」_航海王「动漫」,https://cdn-3.ttvb.eu.org/huya/16913382
-•影视「轮播」_七龙珠「动漫」,https://cdn-3.ttvb.eu.org/huya/11601966
-•影视「轮播」_猫和老鼠「动漫」,https://cdn-3.ttvb.eu.org/huya/11352879
-•影视「轮播」_中华小当家「动漫」,https://cdn-3.ttvb.eu.org/huya/11342413
+•游戏「赛事」_「B站」CS 2,https://cdn.ttvb.eu.org/bilibili/21622811
+•游戏「赛事」_「虎牙」CS 2,https://cdn.ttvb.eu.org/huya/483917
+•游戏「赛事」_「B站」英雄联盟,https://cdn.ttvb.eu.org/bilibili/6
+•游戏「赛事」_「虎牙」英雄联盟 𝟙,https://cdn.ttvb.eu.org/huya/660000
+•游戏「赛事」_「虎牙」英雄联盟 𝟚,https://cdn.ttvb.eu.org/huya/660001
+•游戏「赛事」_「斗鱼」英雄联盟 𝟙,https://cdn.ttvb.eu.org/douyu/288016
+•游戏「赛事」_「斗鱼」英雄联盟 𝟚,https://cdn.ttvb.eu.org/douyu/424559
+•游戏「赛事」_「B站」英雄联盟•手游,https://cdn.ttvb.eu.org/bilibili/23138275
+•游戏「赛事」_「B站」王者荣耀 𝟙,https://cdn.ttvb.eu.org/bilibili/55
+•游戏「赛事」_「B站」王者荣耀 𝟚,https://cdn.ttvb.eu.org/bilibili/21654762
+•游戏「赛事」_「虎牙」王者荣耀 𝟙,https://cdn.ttvb.eu.org/huya/660002
+•游戏「赛事」_「虎牙」王者荣耀 𝟚,https://cdn.ttvb.eu.org/huya/660164
+•游戏「赛事」_「斗鱼」王者荣耀 𝟙,https://cdn.ttvb.eu.org/douyu/1863767
+•游戏「赛事」_「斗鱼」王者荣耀 𝟚,https://cdn.ttvb.eu.org/douyu/1984839
+•游戏「赛事」_「B站」绝地求生,https://cdn.ttvb.eu.org/bilibili/98
+•游戏「赛事」_「虎牙」绝地求生 𝟙,https://cdn.ttvb.eu.org/huya/660004
+•游戏「赛事」_「虎牙」绝地求生 𝟚,https://cdn.ttvb.eu.org/huya/660005
+•游戏「赛事」_「斗鱼」绝地求生,https://cdn.ttvb.eu.org/douyu/100
+•游戏「赛事」_「虎牙」和平精英,https://cdn.ttvb.eu.org/huya/660006
+•游戏「赛事」_「斗鱼」和平精英,https://cdn.ttvb.eu.org/douyu/999
+•游戏「赛事」_「虎牙」金铲铲之战,https://cdn.ttvb.eu.org/huya/660579
+•游戏「赛事」_「斗鱼」金铲铲之战,https://cdn.ttvb.eu.org/douyu/9715241
+•游戏「赛事」_「虎牙」DOTA2,https://cdn.ttvb.eu.org/huya/660118
+•游戏「赛事」_「斗鱼」DOTA2,https://cdn.ttvb.eu.org/douyu/3811559
+•游戏「赛事」_「斗鱼」云顶之弈,https://cdn.ttvb.eu.org/douyu/522423
+•游戏「赛事」_「虎牙」永劫无间,https://cdn.ttvb.eu.org/huya/660115
+•游戏「赛事」_「斗鱼」永劫无间,https://cdn.ttvb.eu.org/huya/9662891
+•游戏「赛事」_「B站」使命召唤•手游,https://cdn.ttvb.eu.org/bilibili/22741849
+•游戏「赛事」_「虎牙」使命召唤•手游,https://cdn.ttvb.eu.org/huya/11718629
+•游戏「赛事」_「斗鱼」使命召唤•手游,https://cdn.ttvb.eu.org/douyu/9223245
+•游戏「赛事」_「虎牙」穿越火线,https://cdn.ttvb.eu.org/huya/660101
+•游戏「赛事」_「斗鱼」穿越火线 𝟙,https://cdn.ttvb.eu.org/douyu/605964
+•游戏「赛事」_「斗鱼」穿越火线 𝟚,https://cdn.ttvb.eu.org/douyu/5388537
+•游戏「赛事」_「虎牙」穿越火线•手游,https://cdn.ttvb.eu.org/huya/660102
+•游戏「赛事」_「B站」第五人格,https://cdn.ttvb.eu.org/bilibili/5555
+•游戏「赛事」_「虎牙」第五人格,https://cdn.ttvb.eu.org/huya/idvesports
+•游戏「赛事」_「斗鱼」第五人格,https://cdn.ttvb.eu.org/douyu/3226194
+•游戏「赛事」_「虎牙」逆战,https://cdn.ttvb.eu.org/huya/nsl2021
+•游戏「赛事」_「B站」无畏契约,https://cdn.ttvb.eu.org/bilibili/22908869
+•游戏「赛事」_「虎牙」无畏契约,https://cdn.ttvb.eu.org/huya/660679
+•游戏「赛事」_「斗鱼」无畏契约,https://cdn.ttvb.eu.org/douyu/4585645
+•游戏「赛事」_「斗鱼」原神,https://cdn.ttvb.eu.org/douyu/10853239
+•游戏「赛事」_「B站」QQ飞车•手游,https://cdn.ttvb.eu.org/bilibili/21743919
+•游戏「赛事」_「斗鱼」QQ飞车•手游,https://cdn.ttvb.eu.org/douyu/5040227
+•游戏「赛事」_「斗鱼」梦幻西游·手游,https://cdn.ttvb.eu.org/huya/9163712
+•游戏「赛事」_「斗鱼」街霸,https://cdn.ttvb.eu.org/huya/11437
+•游戏「赛事」_「B站」JJ斗地主,https://cdn.ttvb.eu.org/bilibili/22021983
+•游戏「赛事」_「斗鱼」JJ斗地主,https://cdn.ttvb.eu.org/douyu/488743
+•游戏「赛事」_「斗鱼」我的世界,https://cdn.ttvb.eu.org/douyu/738878
+•游戏「赛事」_「斗鱼」FIFA,https://cdn.ttvb.eu.org/douyu/7692166
+•游戏「赛事」_「斗鱼」火影忍者,https://cdn.ttvb.eu.org/douyu/1997723
+•游戏「赛事」_「斗鱼」跑跑卡丁车,https://cdn.ttvb.eu.org/douyu/7722576
+•游戏「赛事」_「斗鱼」跑跑卡丁车•手游,https://cdn.ttvb.eu.org/douyu/6672862
+•影视「轮播」_音乐石榴「音乐」,https://cdn.ttvb.eu.org/huya/17091681
+•影视「轮播」_音乐速递「音乐」,https://cdn.ttvb.eu.org/huya/19439762
+•影视「轮播」_治愈•放松「音乐」,https://cdn.ttvb.eu.org/huya/21241811
+•影视「轮播」_阅读•学习「音乐」,https://cdn.ttvb.eu.org/huya/21241813
+•影视「轮播」_电视剧•1「解说」,https://cdn.ttvb.eu.org/huya/21277391
+•影视「轮播」_电视剧•2「解说」,https://cdn.ttvb.eu.org/huya/25018873
+•影视「轮播」_电影•1「解说」,https://cdn.ttvb.eu.org/huya/20289754
+•影视「轮播」_电影•2「解说」,https://cdn.ttvb.eu.org/huya/24983280
+•影视「轮播」_电影•3「解说」,https://cdn.ttvb.eu.org/huya/24396428
+•影视「轮播」_动漫•1「解说」,https://cdn.ttvb.eu.org/huya/19757963
+•影视「轮播」_恐怖电影「解说」,https://cdn.ttvb.eu.org/huya/23419131
+•影视「轮播」_漫威「解说」,https://cdn.ttvb.eu.org/huya/17089779
+•影视「轮播」_美剧「解说」,https://cdn.ttvb.eu.org/huya/20488841
+•影视「轮播」_七龙珠「解说」,https://cdn.ttvb.eu.org/huya/25650806
+•影视「轮播」_止戈电影「解说」,https://cdn.ttvb.eu.org/huya/19863777
+•影视「轮播」_挨饿德•1「其他」,https://cdn.ttvb.eu.org/huya/20985858
+•影视「轮播」_挨饿德•2「其他」,https://cdn.ttvb.eu.org/huya/17693860
+•影视「轮播」_互扇巴掌大赛「其他」,https://cdn.ttvb.eu.org/huya/20072873
+•影视「轮播」_荒野求生「其他」,https://cdn.ttvb.eu.org/huya/593667
+•影视「轮播」_野行者「其他」,https://cdn.ttvb.eu.org/huya/20072663
+•影视「轮播」_跳舞「其他」,https://cdn.ttvb.eu.org/huya/24634408
+•影视「轮播」_茶啊二中「动画」,https://cdn.ttvb.eu.org/huya/11213191
+•影视「轮播」_哆啦A梦「动漫」,https://cdn.ttvb.eu.org/huya/11601963
+•影视「轮播」_航海王「动漫」,https://cdn.ttvb.eu.org/huya/16913382
+•影视「轮播」_七龙珠「动漫」,https://cdn.ttvb.eu.org/huya/11601966
+•影视「轮播」_猫和老鼠「动漫」,https://cdn.ttvb.eu.org/huya/11352879
+•影视「轮播」_中华小当家「动漫」,https://cdn.ttvb.eu.org/huya/11342413

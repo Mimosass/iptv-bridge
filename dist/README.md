@@ -1,6 +1,6 @@
 # 订阅聚合报告
 
-生成时间：2026-09-18 12:47:52 (UTC+8)
+生成时间：2026-09-18 19:19:48 (UTC+8)
 
 ## SenPlayer 订阅地址
 
@@ -20,9 +20,9 @@ https://cdn.jsdelivr.net/gh/<你的用户名>/<仓库名>@<分支>/dist/live.m3u
 
 ## 本次直播源统计
 
-- 上游原始条目：708
-- 去重后频道：536
-- 输出播放线路：635
+- 上游原始条目：704
+- 去重后频道：532
+- 输出播放线路：631
 
 | 上游源 | 状态 | 抓到条目 |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ https://cdn.jsdelivr.net/gh/<你的用户名>/<仓库名>@<分支>/dist/live.m3u
 | iptv-org 香港 | ✅ | 26 |
 | iptv-org 台湾 | ✅ | 52 |
 | 范明明 Global | ❌ 抓取失败 https://live.fanmingming.com/tv/m3u/global.m3u：HTTP Err | 0 |
-| YanG 集合源 | ✅ | 127 |
+| YanG 集合源 | ✅ | 123 |
 
 ### 频道分组 TOP
 
@@ -42,17 +42,16 @@ https://cdn.jsdelivr.net/gh/<你的用户名>/<仓库名>@<分支>/dist/live.m3u
 | •咪咕「移动」 | 42 |
 | •影视「轮播」 | 27 |
 | iptv-org 香港 | 20 |
-| •温馨「提示」 | 4 |
 
 ## TVBox 点播源（SenPlayer 不可用）
 
-- 合并去重后站点：80
+- 合并去重后站点：82
 
 | 上游源 | 状态 | 站点数 |
 | --- | --- | --- |
 | cysk003 AV | ✅ | 29 |
 | fangkuia XPTV | ✅ | 21 |
-| xiaobaitulele all_direct | ✅ | 30 |
+| xiaobaitulele all_direct | ✅ | 32 |
 
 > 这三个上游是 TVBox 的 CSP 爬虫站配置，不是播放地址，SenPlayer 无法消费。
 > 这里只做原样聚合，供影视仓 / 猫影视 / TVBox 使用。
