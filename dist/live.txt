@@ -431,6 +431,7 @@ iptv-org 中国大陆_Guangxi Variety & Travel Channel,http://111.59.24.227:8181
 iptv-org 中国大陆_Kangba TV,http://110.185.237.164:8888/hls/30/index.m3u8
 iptv-org 中国大陆_Chuxiong News Channel [Not 24/7],http://hwapi.yntv.net/ew265l/848y54.m3u8
 iptv-org 中国大陆_Chaozhou Public Channel,http://113.64.146.48:1688/hls/4/index.m3u8
+iptv-org 中国大陆_Xizang TV Chinese,https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 iptv-org 香港_Bloomberg TV Asia (720p),https://bloomberg.com/media-manifest/streams/asia.m3u8
 iptv-org 香港_Bloomberg TV Asia Live Event (720p),https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 iptv-org 香港_Celestial Movies (576i),http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
