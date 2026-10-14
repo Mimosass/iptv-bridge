@@ -885,8 +885,6 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
 #EXTINF:-1 tvg-name="HOY TV (1080p) [Geo-blocked]" group-title="iptv-org 香港",HOY TV (1080p) [Geo-blocked]
 https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
-#EXTINF:-1 tvg-name="KIX" group-title="iptv-org 香港",KIX
-https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 #EXTINF:-1 tvg-name="RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]" group-title="iptv-org 香港",RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-name="RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]" group-title="iptv-org 香港",RTHK TV 31 (港台電視31) (1080p) [Geo-blocked]
@@ -921,6 +919,8 @@ http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 tvg-name="tvN Asia HD (720p)" group-title="iptv-org 香港",tvN Asia HD (720p)
 http://58.8.186.128:10005/bysid/2518
+#EXTINF:-1 tvg-name="KIX (1080p)" group-title="iptv-org 香港",KIX (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
 #EXTINF:-1 tvg-name="Beautiful Life TV" group-title="iptv-org 台湾",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-name="CGNTV Chinese (1080p)" group-title="iptv-org 台湾",CGNTV Chinese (1080p)
