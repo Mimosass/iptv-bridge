@@ -511,6 +511,7 @@ iptv-org 台湾_TVBS News (TVBS新聞台) [Geo-blocked],http://seb.sason.top/sc/
 iptv-org 台湾_台视 (720p),http://162.19.247.76:22222/live/taishi/index.m3u8
 iptv-org 台湾_唯心電視 (480p),https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 iptv-org 台湾_MOMO TV (1080p),http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+iptv-org 台湾_Discovery Asia Taiwan (1080p),http://125.227.210.55:1004/VideoInput/play.ts
 •咪咕「移动」_睛彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 •咪咕「移动」_睛彩青少「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 •咪咕「移动」_睛彩竞技「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
