@@ -917,8 +917,6 @@ http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
 http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1 tvg-name="Golden Jade (1080p)" group-title="iptv-org 香港",Golden Jade (1080p)
 http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
-#EXTINF:-1 tvg-name="tvN Asia HD (720p)" group-title="iptv-org 香港",tvN Asia HD (720p)
-http://58.8.186.128:10005/bysid/2518
 #EXTINF:-1 tvg-name="KIX (1080p)" group-title="iptv-org 香港",KIX (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
 #EXTINF:-1 tvg-name="Beautiful Life TV" group-title="iptv-org 台湾",Beautiful Life TV
