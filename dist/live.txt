@@ -26,13 +26,11 @@ iptv-org 中国大陆_CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
 iptv-org 中国大陆_CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
 iptv-org 中国大陆_CCTV-10 (720p),https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 iptv-org 中国大陆_CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
-iptv-org 中国大陆_CCTV-11 (720p),https://xykt-fix.github.io/play/a02b/index.m3u8
 iptv-org 中国大陆_CCTV-12 (720p),http://74.91.26.218:82/live/cctv12hd.m3u8
 iptv-org 中国大陆_CCTV-13 (1080p),http://go.bkpcp.top/mg/cctv13
 iptv-org 中国大陆_CCTV-13 (1080p),http://74.91.26.218:82/live/cctv13hd.m3u8
 iptv-org 中国大陆_CCTV-14 (1080p),http://74.91.26.218:82/live/cctv14hd.m3u8
-iptv-org 中国大陆_CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
-iptv-org 中国大陆_CCTV-15 (1080p),http://74.91.26.218:82/live/cctv15hd.m3u8
+iptv-org 中国大陆_CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 iptv-org 中国大陆_CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 iptv-org 中国大陆_CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
 iptv-org 中国大陆_CETV1 (576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
@@ -91,6 +89,7 @@ iptv-org 中国大陆_Shenzhen Satellite TV (2160p),https://livepull-tcms.sztv.c
 iptv-org 中国大陆_Siping TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 iptv-org 中国大陆_Tonghua TV (1080p),http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 iptv-org 中国大陆_Tonghua TV (1080p),https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+iptv-org 中国大陆_Tonghua TV (1080p),http://139.211.217.79:9004/hls/75/index.m3u8
 iptv-org 中国大陆_VOA美国之音 (1080p),https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 iptv-org 中国大陆_Xinjiang TV 1,https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 iptv-org 中国大陆_Xinjiang TV 2,http://110.153.180.106:55555/out_3/index.m3u8
@@ -434,6 +433,8 @@ iptv-org 中国大陆_Chaozhou Public Channel,http://113.64.146.48:1688/hls/4/in
 iptv-org 中国大陆_Xizang TV Chinese,https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 iptv-org 中国大陆_Dongguan Comprehensive News Channel,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 iptv-org 中国大陆_Dongguan Comprehensive News Channel,http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
+iptv-org 中国大陆_Hunan Economy Channel,https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
+iptv-org 中国大陆_Xinjiang TV 5,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 iptv-org 香港_Bloomberg TV Asia (720p),https://bloomberg.com/media-manifest/streams/asia.m3u8
 iptv-org 香港_Bloomberg TV Asia Live Event (720p),https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 iptv-org 香港_Celestial Movies (576i),http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
@@ -511,6 +512,9 @@ iptv-org 台湾_台视 (720p),http://162.19.247.76:22222/live/taishi/index.m3u8
 iptv-org 台湾_唯心電視 (480p),https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 iptv-org 台湾_MOMO TV (1080p),http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 iptv-org 台湾_Discovery Asia Taiwan (1080p),http://125.227.210.55:1004/VideoInput/play.ts
+iptv-org 台湾_EBC Foreign Movie,http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
+iptv-org 台湾_SJTV,http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
+iptv-org 台湾_PTS 3,http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
 •咪咕「移动」_睛彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 •咪咕「移动」_睛彩青少「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 •咪咕「移动」_睛彩竞技「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989

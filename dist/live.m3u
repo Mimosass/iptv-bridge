@@ -55,8 +55,6 @@ http://74.91.26.218:82/live/cctv10hd.m3u8
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 #EXTINF:-1 tvg-name="CCTV-11 (720p)" group-title="iptv-org 中国大陆",CCTV-11 (720p)
 http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-name="CCTV-11 (720p)" group-title="iptv-org 中国大陆",CCTV-11 (720p)
-https://xykt-fix.github.io/play/a02b/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-12 (720p)" group-title="iptv-org 中国大陆",CCTV-12 (720p)
 http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-13 (1080p)" group-title="iptv-org 中国大陆",CCTV-13 (1080p)
@@ -65,9 +63,7 @@ http://go.bkpcp.top/mg/cctv13
 http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-14 (1080p)" group-title="iptv-org 中国大陆",CCTV-14 (1080p)
 http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-name="CCTV-15 (1080p)" group-title="iptv-org 中国大陆",CCTV-15 (1080p)
-https://xykt-fix.github.io/play/a02e/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-15 (1080p)" group-title="iptv-org 中国大陆",CCTV-15 (1080p)
+#EXTINF:-1 tvg-name="CCTV-15 (720p)" group-title="iptv-org 中国大陆",CCTV-15 (720p)
 http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-16 (1080p)" group-title="iptv-org 中国大陆",CCTV-16 (1080p)
 http://74.91.26.218:82/live/cctv16hd.m3u8
@@ -185,6 +181,8 @@ http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
 #EXTINF:-1 tvg-name="Tonghua TV (1080p)" group-title="iptv-org 中国大陆",Tonghua TV (1080p)
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+#EXTINF:-1 tvg-name="Tonghua TV (1080p)" group-title="iptv-org 中国大陆",Tonghua TV (1080p)
+http://139.211.217.79:9004/hls/75/index.m3u8
 #EXTINF:-1 tvg-name="VOA美国之音 (1080p)" group-title="iptv-org 中国大陆",VOA美国之音 (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-name="Xinjiang TV 1" group-title="iptv-org 中国大陆",Xinjiang TV 1
@@ -871,6 +869,10 @@ https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 tvg-name="Dongguan Comprehensive News Channel" group-title="iptv-org 中国大陆",Dongguan Comprehensive News Channel
 http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
+#EXTINF:-1 tvg-name="Hunan Economy Channel" group-title="iptv-org 中国大陆",Hunan Economy Channel
+https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
+#EXTINF:-1 tvg-name="Xinjiang TV 5" group-title="iptv-org 中国大陆",Xinjiang TV 5
+http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="Bloomberg TV Asia (720p)" group-title="iptv-org 香港",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV Asia Live Event (720p)" group-title="iptv-org 香港",Bloomberg TV Asia Live Event (720p)
@@ -1025,6 +1027,12 @@ https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w117
 http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Asia Taiwan (1080p)" group-title="iptv-org 台湾",Discovery Asia Taiwan (1080p)
 http://125.227.210.55:1004/VideoInput/play.ts
+#EXTINF:-1 tvg-name="EBC Foreign Movie" group-title="iptv-org 台湾",EBC Foreign Movie
+http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="SJTV" group-title="iptv-org 台湾",SJTV
+http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="PTS 3" group-title="iptv-org 台湾",PTS 3
+http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="睛彩广场舞「移动」" tvg-logo="https://iptv.yang-1989.xyz/logo/睛彩广场舞.webp" group-title="•咪咕「移动」",睛彩广场舞「移动」
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="睛彩青少「移动」" tvg-logo="https://iptv.yang-1989.xyz/logo/睛彩青少.webp" group-title="•咪咕「移动」",睛彩青少「移动」
