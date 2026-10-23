@@ -83,8 +83,6 @@ https://0472.org/hls/cgtn.m3u8
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-name="CGTN Documentary (1080p)" group-title="iptv-org 中国大陆",CGTN Documentary (1080p)
 https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
-#EXTINF:-1 tvg-name="CGTN French (1080p)" group-title="iptv-org 中国大陆",CGTN French (1080p)
-http://145.239.5.177/214/index.m3u8
 #EXTINF:-1 tvg-name="CGTN Spanish (720p)" group-title="iptv-org 中国大陆",CGTN Spanish (720p)
 http://45.165.82.19/test/index.m3u8
 #EXTINF:-1 tvg-name="CGTN Spanish (720p)" group-title="iptv-org 中国大陆",CGTN Spanish (720p)
