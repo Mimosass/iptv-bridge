@@ -37,6 +37,8 @@ http://192.151.150.154/live/cctv8k.m3u8
 http://198.204.240.250:82/live/cctv8k.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+" group-title="iptv-org 中国大陆",CCTV-5+
 https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+#EXTINF:-1 tvg-name="CCTV-5+" group-title="iptv-org 中国大陆",CCTV-5+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV-6 (1080p)" group-title="iptv-org 中国大陆",CCTV-6 (1080p)
 http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-name="CCTV-6 (1080p)" group-title="iptv-org 中国大陆",CCTV-6 (1080p)
