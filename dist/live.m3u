@@ -873,6 +873,8 @@ http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
 https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 #EXTINF:-1 tvg-name="Xinjiang TV 5" group-title="iptv-org 中国大陆",Xinjiang TV 5
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="Jingmen Comprehensive News Channel" group-title="iptv-org 中国大陆",Jingmen Comprehensive News Channel
+https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
 #EXTINF:-1 tvg-name="Bloomberg TV Asia (720p)" group-title="iptv-org 香港",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV Asia Live Event (720p)" group-title="iptv-org 香港",Bloomberg TV Asia Live Event (720p)
