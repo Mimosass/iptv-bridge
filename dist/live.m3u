@@ -203,6 +203,8 @@ http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="Xizang TV Tibetan (720p) [Not 24/7]" group-title="iptv-org 中国大陆",Xizang TV Tibetan (720p) [Not 24/7]
 http://php.jdshipin.com:8880/xztv.php?id=zy
+#EXTINF:-1 tvg-name="Xizang TV Tibetan (720p) [Not 24/7]" group-title="iptv-org 中国大陆",Xizang TV Tibetan (720p) [Not 24/7]
+https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
 #EXTINF:-1 tvg-name="Zhejiang TV International" group-title="iptv-org 中国大陆",Zhejiang TV International
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 tvg-name="万州三峡移民 (576p) [Not 24/7]" group-title="iptv-org 中国大陆",万州三峡移民 (576p) [Not 24/7]
@@ -933,6 +935,8 @@ http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 #EXTINF:-1 tvg-name="KIX (1080p)" group-title="iptv-org 香港",KIX (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
+#EXTINF:-1 tvg-name="ViuTV (1080i)" group-title="iptv-org 香港",ViuTV (1080i)
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="Beautiful Life TV" group-title="iptv-org 台湾",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-name="CGNTV Chinese (1080p)" group-title="iptv-org 台湾",CGNTV Chinese (1080p)
