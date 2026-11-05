@@ -16,8 +16,8 @@ iptv-org 中国大陆_CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u
 iptv-org 中国大陆_CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 iptv-org 中国大陆_CCTV-4K (1080p),http://192.151.150.154/live/cctv8k.m3u8
 iptv-org 中国大陆_CCTV-4K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
-iptv-org 中国大陆_CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
-iptv-org 中国大陆_CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+iptv-org 中国大陆_CCTV-5+ (1080p),https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+iptv-org 中国大陆_CCTV-5+ (1080p),https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 iptv-org 中国大陆_CCTV-6 (1080p),http://69.30.245.50/live/cctv6.m3u8
 iptv-org 中国大陆_CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 iptv-org 中国大陆_CCTV-6 (1080p),https://live.eac-news.com/CCTV/streams/cctv6.m3u8
@@ -38,22 +38,32 @@ iptv-org 中国大陆_CETV1 (576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G
 iptv-org 中国大陆_CETV2 (576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 iptv-org 中国大陆_CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 iptv-org 中国大陆_CGTN (1080p),https://english-livebkali.cgtn.com/live/encgtn.m3u8
-iptv-org 中国大陆_CGTN (1080p),https://0472.org/hls/cgtn.m3u8
+iptv-org 中国大陆_CGTN (1080p),https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
 iptv-org 中国大陆_CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 iptv-org 中国大陆_CGTN Documentary (1080p),https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
+iptv-org 中国大陆_CGTN Global Biz (1080p),https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 iptv-org 中国大陆_CGTN Spanish (720p),http://45.165.82.19/test/index.m3u8
 iptv-org 中国大陆_CGTN Spanish (720p),http://45.186.106.147:8880/play/a06f/index.m3u8
+iptv-org 中国大陆_Chaozhou Public Channel,http://113.64.146.48:1688/hls/4/index.m3u8
 iptv-org 中国大陆_Chifeng Comprehensive News Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+iptv-org 中国大陆_China Travel (1080p),https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+iptv-org 中国大陆_Chuxiong News Channel [Not 24/7],http://hwapi.yntv.net/ew265l/848y54.m3u8
 iptv-org 中国大陆_CND Film Middle School Channel,http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
 iptv-org 中国大陆_CND Film Middle School Channel,http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
+iptv-org 中国大陆_Discovering China (1080p),https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+iptv-org 中国大陆_Dongguan Comprehensive News Channel,http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
+iptv-org 中国大陆_Dongguan Comprehensive News Channel,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 iptv-org 中国大陆_Dragon TV International,https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
 iptv-org 中国大陆_Foshan News TV,http://dslive.grtn.cn/fszh/sd/live.m3u8
+iptv-org 中国大陆_Fujian Comprehensive Channel,http://120.39.52.202:5140/福建综合
 iptv-org 中国大陆_Golden Eagle Cartoon,http://1.24.190.98:10080/hls/51/index.m3u8
+iptv-org 中国大陆_Guangxi Variety & Travel Channel,http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 iptv-org 中国大陆_Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 iptv-org 中国大陆_Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 iptv-org 中国大陆_Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
 iptv-org 中国大陆_Hebei TV (2160p),https://event.pull.hebtv.com/live/live101.m3u8
 iptv-org 中国大陆_Hebei TV (2160p),https://restream.pdtvhd.com/memfs/1db8c005-9365-4b32-94a4-3736987b5646.m3u8
+iptv-org 中国大陆_Hunan Economy Channel,https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 iptv-org 中国大陆_Hunan TV (2160p),http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 iptv-org 中国大陆_Jiangsu Public & News Channel,https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
 iptv-org 中国大陆_Jiangxi Children's Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
@@ -65,26 +75,29 @@ iptv-org 中国大陆_Jilin City Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/c
 iptv-org 中国大陆_Jilin Lifestyle Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
 iptv-org 中国大陆_Jilin Movie Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
 iptv-org 中国大陆_Jilin Rural Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+iptv-org 中国大陆_Jingmen Comprehensive News Channel,https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
+iptv-org 中国大陆_Kangba TV,http://110.185.237.164:8888/hls/30/index.m3u8
 iptv-org 中国大陆_Lanzhou Comprehensive News Channel,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
 iptv-org 中国大陆_Lanzhou Culture & Tourism Channel,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 iptv-org 中国大陆_Liangshan TV [Not 24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 iptv-org 中国大陆_Nanchang News & Generalist Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
-iptv-org 中国大陆_Nei Monggol TV (1080i) [Not 24/7],http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-iptv-org 中国大陆_Nei Monggol TV (1080i) [Not 24/7],http://1.24.190.98:10080/hls/39/index.m3u8
-iptv-org 中国大陆_Nei Monggol TV (1080i) [Not 24/7],http://110.19.156.172:9901/tsfile/live/1003_1.m3u8
-iptv-org 中国大陆_Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7],http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
-iptv-org 中国大陆_Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7],http://1.24.190.98:10080/hls/40/index.m3u8
+iptv-org 中国大陆_Nei Monggol TV,http://1.24.190.98:10080/hls/39/index.m3u8
+iptv-org 中国大陆_Nei Monggol TV,http://110.19.156.172:9901/tsfile/live/1003_1.m3u8
+iptv-org 中国大陆_Nei Monggol TV,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+iptv-org 中国大陆_Nei Monggol TV 2 Mongolian Culture Channel,http://1.24.190.98:10080/hls/40/index.m3u8
+iptv-org 中国大陆_Nei Monggol TV 2 Mongolian Culture Channel,http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
+iptv-org 中国大陆_Qianjiang Channel,rtmp://splay-qukan.cztv.com/live/1792059352668052?auth_key=1886667371-a351173879224e5fbbb4412bf9f96eff-0-de13c2186941a507a27a3438213d2169
 iptv-org 中国大陆_Qinghai TV,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+iptv-org 中国大陆_QTV-1,http://119.166.53.110:85/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
 iptv-org 中国大陆_QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
-iptv-org 中国大陆_QTV-1,http://119.166.53.110:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 iptv-org 中国大陆_QTV-2,http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+iptv-org 中国大陆_QTV-3,http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 iptv-org 中国大陆_QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
-iptv-org 中国大陆_QTV-3,http://119.166.53.110:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+iptv-org 中国大陆_QTV-4,http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=0&key=txiptv&playlive=1
 iptv-org 中国大陆_QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
-iptv-org 中国大陆_QTV-4,http://119.166.53.110:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 iptv-org 中国大陆_QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+iptv-org 中国大陆_QTV-6,http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1
 iptv-org 中国大陆_QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
-iptv-org 中国大陆_QTV-6,http://119.166.53.110:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 iptv-org 中国大陆_Shenzhen Satellite TV (2160p),https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
 iptv-org 中国大陆_Siping TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 iptv-org 中国大陆_Tonghua TV (1080p),http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
@@ -99,8 +112,13 @@ iptv-org 中国大陆_Xinjiang TV 3,http://110.153.180.106:55555/out_2/index.m3u
 iptv-org 中国大陆_Xinjiang TV 3,http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1
 iptv-org 中国大陆_Xinjiang TV 3,http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
 iptv-org 中国大陆_Xinjiang TV 8,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
-iptv-org 中国大陆_Xizang TV Tibetan (720p) [Not 24/7],http://php.jdshipin.com:8880/xztv.php?id=zy
-iptv-org 中国大陆_Xizang TV Tibetan (720p) [Not 24/7],https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
+iptv-org 中国大陆_Xizang TV Chinese,https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
+iptv-org 中国大陆_Xizang TV Tibetan,https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
+iptv-org 中国大陆_Xizang TV Tibetan,http://php.jdshipin.com:8880/xztv.php?id=zy
+iptv-org 中国大陆_Zhejiang Children's Channel,rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d
+iptv-org 中国大陆_Zhejiang Economic Channel,rtmp://splay-qukan.cztv.com/live/1792060094123056?auth_key=1886668326-379148691825438db322fe5c1545be6b-0-ae4e25174445c06889d2da4cf99c48af
+iptv-org 中国大陆_Zhejiang Education Technology Channel,rtmp://splay-qukan.cztv.com/live/1792059848292249?auth_key=1886667907-3d9b01248b784f0dad521e451a627376-0-810b24f67775043e86a4337d9660392c
+iptv-org 中国大陆_Zhejiang Minsheng Leisure,rtmp://splay-qukan.cztv.com/live/1792059771757250?auth_key=1886667772-951bbd2034684d73940470ed3eebc32a-0-adc4291abba5c186e3ead67a1683e790
 iptv-org 中国大陆_Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 iptv-org 中国大陆_万州三峡移民 (576p) [Not 24/7],http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
 iptv-org 中国大陆_万州影视 (576p) [Not 24/7],http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
@@ -115,8 +133,8 @@ iptv-org 中国大陆_乐清生活 [Geo-blocked],http://33809.hlsplay.aodianyun.
 iptv-org 中国大陆_云南 Ⅰ 文山公共台 (1080p),http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv
 iptv-org 中国大陆_云南 Ⅰ 文山综合台 (1080p) [Not 24/7],http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 iptv-org 中国大陆_云南卫视 (1080p),https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
-iptv-org 中国大陆_云南卫视 (1080p),http://183.207.248.71/cntv/live1/yunnanstv/yunnanstv
 iptv-org 中国大陆_云南卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
+iptv-org 中国大陆_云南卫视 (1080p),http://183.207.248.71/gitv/live1/G_YUNNAN/G_YUNNAN
 iptv-org 中国大陆_五星体育 (720p),http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
 iptv-org 中国大陆_交城電視台 (576p),http://sxjc.chinashadt.com:2036/live/stream:jctv.stream/playlist.m3u8
 iptv-org 中国大陆_京视剧场 (576p),http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
@@ -140,8 +158,8 @@ iptv-org 中国大陆_凤凰资讯 (720p),http://223.110.245.167/ott.js.chinamob
 iptv-org 中国大陆_凤凰资讯 (720p),http://125.210.152.18:9090/live/FHZX_1200.m3u8
 iptv-org 中国大陆_凤凰资讯 (720p),http://php.17186.eu.org/phtv/fhzx.m3u8
 iptv-org 中国大陆_凤凰香港 (720p),http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-iptv-org 中国大陆_利川公共 (576p) [Geo-blocked],http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
-iptv-org 中国大陆_利川公共 (576p) [Geo-blocked],http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
+iptv-org 中国大陆_利川公共 (180p) [Not 24/7],http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
+iptv-org 中国大陆_利川公共 (180p) [Not 24/7],http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
 iptv-org 中国大陆_利川新闻综合 (480p) [Not 24/7],http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
 iptv-org 中国大陆_前郭综合 [Geo-blocked],https://stream2.jlntv.cn/qg/sd/live.m3u8
 iptv-org 中国大陆_动作电影 (1080p),http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
@@ -156,8 +174,8 @@ iptv-org 中国大陆_华亭电视台 (1080p),http://117.156.28.119/270000001111
 iptv-org 中国大陆_华数 (720p) [Not 24/7],http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 iptv-org 中国大陆_南京十八 (576p),http://183.207.248.71/gitv/live1/G_NJSB/G_NJSB
 iptv-org 中国大陆_南京少儿 (720p) [Not 24/7],https://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-iptv-org 中国大陆_南京教科 (720p) [Not 24/7],https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
-iptv-org 中国大陆_南京教科 (720p) [Not 24/7],http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227194/index.m3u8
+iptv-org 中国大陆_南京教科 (576p),http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227194/index.m3u8
+iptv-org 中国大陆_南京教科 (576p),https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 iptv-org 中国大陆_南阳新闻 (1080p) [Not 24/7],http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
 iptv-org 中国大陆_南陽公共頻道 (1080p) [Not 24/7],http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_295.m3u8
 iptv-org 中国大陆_南陽科教頻道 (1080p) [Not 24/7],http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_296.m3u8
@@ -190,9 +208,9 @@ iptv-org 中国大陆_天津卫视 (1080p),http://39.134.115.163:8080/PLTV/88888
 iptv-org 中国大陆_天津卫视 (1080p),http://112.25.48.68/live/program/live/tjwshd/4000000/mnf.m3u8
 iptv-org 中国大陆_女性时尚 (576p),http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8
 iptv-org 中国大陆_孟州电视台 (1080p) [Not 24/7],http://live.dxhmt.cn:9081/tv/10883-1.m3u8
-iptv-org 中国大陆_宁夏卫视 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA
-iptv-org 中国大陆_宁夏卫视 (576p) [Not 24/7],http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
-iptv-org 中国大陆_宁夏卫视 (576p) [Not 24/7],http://117.169.120.140:8080/live/ningxiastv/.m3u8
+iptv-org 中国大陆_宁夏卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+iptv-org 中国大陆_宁夏卫视 (576p),http://117.169.120.140:8080/live/ningxiastv/.m3u8
+iptv-org 中国大陆_宁夏卫视 (576p),http://183.207.248.11/PLTV/4/224/3221225842/index.m3u8
 iptv-org 中国大陆_安徽 Ⅰ 郎溪综合台 (1080p),http://117.70.93.210:1935/live/xinwen/playlist.m3u8
 iptv-org 中国大陆_安徽 Ⅰ 铜陵公共 (720p),http://dstpush1.retalltech.com/app/stream2.m3u8
 iptv-org 中国大陆_安徽 Ⅰ 铜陵综合 (720p),http://dstpush1.retalltech.com/app/stream1.m3u8
@@ -222,8 +240,8 @@ iptv-org 中国大陆_嵊州综合 (720p) [Not 24/7],https://l.cztvcloud.com/cha
 iptv-org 中国大陆_广东 Ⅰ 韶关公共台 (720p) [Not 24/7],https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 iptv-org 中国大陆_广东 Ⅰ 韶关综合台 (720p) [Not 24/7],https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 iptv-org 中国大陆_广水新闻综合 [Geo-blocked],http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
-iptv-org 中国大陆_康巴卫视 (720p) [Not 24/7],http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
-iptv-org 中国大陆_康巴卫视 (720p) [Not 24/7],http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8
+iptv-org 中国大陆_康巴卫视 (576p),http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8
+iptv-org 中国大陆_康巴卫视 (576p),http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
 iptv-org 中国大陆_延边卫视 (576p),http://223.110.245.139/PLTV/4/224/3221227002/index.m3u8
 iptv-org 中国大陆_延边卫视 (576p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
 iptv-org 中国大陆_延边新闻综合 [Geo-blocked],https://stream2.jlntv.cn/jlyb/sd/live.m3u8
@@ -273,15 +291,15 @@ iptv-org 中国大陆_江苏体育 (576p),http://183.207.248.71/gitv/live1/G_JST
 iptv-org 中国大陆_江苏体育 (576p),http://183.207.249.12/PLTV/4/224/3221225935/index.m3u8
 iptv-org 中国大陆_江苏体育 (576p),http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8
 iptv-org 中国大陆_江苏公共 (576p),http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG
-iptv-org 中国大陆_江苏卫视 (1080p) [Not 24/7],http://183.207.248.71/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
-iptv-org 中国大陆_江苏卫视 (1080p) [Not 24/7],http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-iptv-org 中国大陆_江苏卫视 (1080p) [Not 24/7],http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+iptv-org 中国大陆_江苏卫视 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+iptv-org 中国大陆_江苏卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+iptv-org 中国大陆_江苏卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
 iptv-org 中国大陆_江苏城市 (576p),http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS
 iptv-org 中国大陆_江苏城市 (576p),http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225929/index.m3u8
-iptv-org 中国大陆_江苏影视 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
-iptv-org 中国大陆_江苏影视 (576p) [Not 24/7],http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
-iptv-org 中国大陆_江苏教育 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY
-iptv-org 中国大陆_江苏教育 (576p) [Not 24/7],http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
+iptv-org 中国大陆_江苏影视 (576p),http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
+iptv-org 中国大陆_江苏影视 (576p),http://183.207.248.71/gitv/live1/G_JSYS/G_JSYS
+iptv-org 中国大陆_江苏教育 (576p),http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
+iptv-org 中国大陆_江苏教育 (576p),http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY
 iptv-org 中国大陆_江苏综艺 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
 iptv-org 中国大陆_江西卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 iptv-org 中国大陆_江西卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
@@ -302,9 +320,9 @@ iptv-org 中国大陆_浙江经济,https://ali-m-l.cztv.com/channels/lantian/cha
 iptv-org 中国大陆_浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 iptv-org 中国大陆_海西州综合 (576p),http://stream.haixitv.cn/1/sd/live.m3u8
 iptv-org 中国大陆_涡阳新闻综合 (360p),http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.m3u8
-iptv-org 中国大陆_深圳卫视 (1080p) [Not 24/7],http://183.207.248.71/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
-iptv-org 中国大陆_深圳卫视 (1080p) [Not 24/7],http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-iptv-org 中国大陆_深圳卫视 (1080p) [Not 24/7],http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8
+iptv-org 中国大陆_深圳卫视 (1080p),http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+iptv-org 中国大陆_深圳卫视 (1080p),http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8
+iptv-org 中国大陆_深圳卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
 iptv-org 中国大陆_湘潭公共 (576p),http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 iptv-org 中国大陆_湘潭新闻综合 (720p),http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 iptv-org 中国大陆_滁州市广播电视台 公共频道 (400p),http://live.cztv.cc:85/live/ggpd.m3u8
@@ -336,8 +354,8 @@ iptv-org 中国大陆_福州广播电视台都市生活频道 (FZTV-3) (1080p),h
 iptv-org 中国大陆_福州电视台少儿频道 (FZTV-少儿) (1080p),http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 iptv-org 中国大陆_萬州三峽移民 (576p),http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
 iptv-org 中国大陆_萬州三峽移民 (576p),http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
-iptv-org 中国大陆_萬州影視文藝 (576p) [Not 24/7],http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
-iptv-org 中国大陆_萬州影視文藝 (576p) [Not 24/7],http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+iptv-org 中国大陆_萬州影視文藝 (576p),http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+iptv-org 中国大陆_萬州影視文藝 (576p),http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
 iptv-org 中国大陆_萬州科教頻道 (576p),http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
 iptv-org 中国大陆_萬州科教頻道 (576p),http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
 iptv-org 中国大陆_萬州綜合頻道 (576p),http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
@@ -386,9 +404,9 @@ iptv-org 中国大陆_邗江资讯 (576p),http://223.110.245.139/PLTV/4/224/3221
 iptv-org 中国大陆_酒泉新闻综合 (576p),http://117.156.28.119/270000001111/1110000001/index.m3u8
 iptv-org 中国大陆_金昌公共頻道 (240p) [Geo-blocked],http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
 iptv-org 中国大陆_金昌綜合頻道 (720p) [Geo-blocked],http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
-iptv-org 中国大陆_金鹰卡通 (576p) [Geo-blocked],http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
-iptv-org 中国大陆_金鹰卡通 (576p) [Geo-blocked],http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
-iptv-org 中国大陆_金鹰卡通 (576p) [Geo-blocked],http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8
+iptv-org 中国大陆_金鹰卡通 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+iptv-org 中国大陆_金鹰卡通 (576p),http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
+iptv-org 中国大陆_金鹰卡通 (576p),http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8
 iptv-org 中国大陆_长乐综合 [Geo-blocked],http://35908.hlsplay.aodianyun.com/guangdianyun_35908/tv_channel_327.m3u8
 iptv-org 中国大陆_长春综合 [Geo-blocked],https://stream2.jlntv.cn/jlcc/sd/live.m3u8
 iptv-org 中国大陆_长沙地铁移动 [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_356.m3u8
@@ -423,32 +441,20 @@ iptv-org 中国大陆_黑龙卫视 (1080p),http://223.110.245.170/PLTV/3/224/322
 iptv-org 中国大陆_黑龙江 (1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
 iptv-org 中国大陆_黑龙江 (1080p),http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
 iptv-org 中国大陆_黑龙江卫 (1080p),http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
-iptv-org 中国大陆_CGTN Global Biz (1080p),https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-iptv-org 中国大陆_Discovering China (1080p),https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-iptv-org 中国大陆_China Travel (1080p),https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-iptv-org 中国大陆_Fujian Comprehensive Channel,http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88
-iptv-org 中国大陆_Guangxi Variety & Travel Channel,http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-iptv-org 中国大陆_Kangba TV,http://110.185.237.164:8888/hls/30/index.m3u8
-iptv-org 中国大陆_Chuxiong News Channel [Not 24/7],http://hwapi.yntv.net/ew265l/848y54.m3u8
-iptv-org 中国大陆_Chaozhou Public Channel,http://113.64.146.48:1688/hls/4/index.m3u8
-iptv-org 中国大陆_Xizang TV Chinese,https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
-iptv-org 中国大陆_Dongguan Comprehensive News Channel,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
-iptv-org 中国大陆_Dongguan Comprehensive News Channel,http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
-iptv-org 中国大陆_Hunan Economy Channel,https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
-iptv-org 中国大陆_Xinjiang TV 5,http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-iptv-org 中国大陆_Jingmen Comprehensive News Channel,https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
-iptv-org 中国大陆_Qianjiang Channel,rtmp://splay-qukan.cztv.com/live/1792059352668052?auth_key=1886667371-a351173879224e5fbbb4412bf9f96eff-0-de13c2186941a507a27a3438213d2169
-iptv-org 中国大陆_Zhejiang Economic Channel,rtmp://splay-qukan.cztv.com/live/1792060094123056?auth_key=1886668326-379148691825438db322fe5c1545be6b-0-ae4e25174445c06889d2da4cf99c48af
-iptv-org 中国大陆_Zhejiang Education Technology Channel,rtmp://splay-qukan.cztv.com/live/1792059848292249?auth_key=1886667907-3d9b01248b784f0dad521e451a627376-0-810b24f67775043e86a4337d9660392c
-iptv-org 中国大陆_Zhejiang Children's Channel,rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d
-iptv-org 中国大陆_Zhejiang Minsheng Leisure,rtmp://splay-qukan.cztv.com/live/1792059771757250?auth_key=1886667772-951bbd2034684d73940470ed3eebc32a-0-adc4291abba5c186e3ead67a1683e790
+iptv-org 香港_Asian Drama (1080p),http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 iptv-org 香港_Bloomberg TV Asia (720p),https://bloomberg.com/media-manifest/streams/asia.m3u8
 iptv-org 香港_Bloomberg TV Asia Live Event (720p),https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 iptv-org 香港_Celestial Movies (576i),http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
+iptv-org 香港_Golden Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 iptv-org 香港_HOY Infotainment (1080p) [Geo-blocked],https://hoytv-live-stream.hoy.tv/ch78/index.m3u8
 iptv-org 香港_HOY International Business Channel (1080p) [Geo-blocked],https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 iptv-org 香港_HOY International Business Channel (1080p) [Geo-blocked],https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
 iptv-org 香港_HOY TV (1080p) [Geo-blocked],https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
+iptv-org 香港_Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+iptv-org 香港_KIX (1080p),https://freem3u.xyz/api/live/play.m3u8?vid=9901
+iptv-org 香港_Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
+iptv-org 香港_Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+iptv-org 香港_Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
 iptv-org 香港_RTHK TV 31 (港台電視31) (1080p) [Geo-blocked],https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 iptv-org 香港_RTHK TV 31 (港台電視31) (1080p) [Geo-blocked],https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 iptv-org 香港_RTHK TV 32 (港台電視32) (1080p) [Geo-blocked],https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
@@ -458,25 +464,20 @@ iptv-org 香港_RTHK TV 34 (港台電視34) (1080p) [Geo-blocked],https://rthktv
 iptv-org 香港_RTHK TV 35 (港台電視35) (1080p) [Geo-blocked],https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 iptv-org 香港_RTHK TV 36 (港台電視36) (1080p) [Geo-blocked],https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
 iptv-org 香港_Thrill (540p),https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
-iptv-org 香港_耀才財經台 (576p),http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-iptv-org 香港_Asian Drama (1080p),http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
-iptv-org 香港_Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
-iptv-org 香港_Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
-iptv-org 香港_Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
-iptv-org 香港_Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
-iptv-org 香港_Golden Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
-iptv-org 香港_KIX (1080p),https://freem3u.xyz/api/live/play.m3u8?vid=9901
 iptv-org 香港_ViuTV (1080i),http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-iptv-org 台湾_Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+iptv-org 香港_耀才財經台 (576p),http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+iptv-org 台湾_Beautiful Life TV (720p),https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 iptv-org 台湾_CGNTV Chinese (1080p),https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 iptv-org 台湾_CTi Variety (中天綜合台) (720p),http://23.237.10.66:16372
 iptv-org 台湾_CTS (HUA-CHI CTS) (1080p),rtmp://59.124.75.138:1935/sat/tv111
 iptv-org 台湾_CTS News (華視新聞資訊) [Geo-blocked],http://seb.sason.top/sc/hsxw_fhd.m3u8
 iptv-org 台湾_DaAi1 (大愛1) (720p),https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-iptv-org 台湾_DaAi2 (大愛2) (720p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-iptv-org 台湾_DaAi2 (大愛2) (720p),http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
+iptv-org 台湾_DaAi 2 (1080p),http://nmk.ioapk.com:5050/4gtv-live106/index.m3u8
+iptv-org 台湾_DaAi 2 (1080p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 iptv-org 台湾_Dali TV (大立電視台) (720p),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+iptv-org 台湾_Discovery Asia Taiwan (1080p),http://125.227.210.55:1004/VideoInput/play.ts
 iptv-org 台湾_EBC Financial News (東森財經新聞台) (1080p) [Not 24/7],http://seb.sason.top/sc/dscjxw_fhd.m3u8
+iptv-org 台湾_EBC Foreign Movie,http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
 iptv-org 台湾_EBC News (東森新聞台) (1080p) [Not 24/7],http://seb.sason.top/sc/dsxw_fhd.m3u8
 iptv-org 台湾_FTV (民視) (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=ms
 iptv-org 台湾_FTV One (民視第一台) (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=dy
@@ -511,18 +512,16 @@ iptv-org 台湾_GOOD TV CH47 牧者頻道 (720p) [Not 24/7],https://live.streami
 iptv-org 台湾_GOOD TV CH49 禱告頻道 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech49.m3u8
 iptv-org 台湾_GOOD TV CH50 國際講員 中文發音 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech50.m3u8
 iptv-org 台湾_Indigenous TV (720p),http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+iptv-org 台湾_MOMO TV (1080p),http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
+iptv-org 台湾_PTS 3,http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
 iptv-org 台湾_SET News (三立新聞) (1080p) [Geo-blocked],http://seb.sason.top/sc/sllive_fhd.m3u8
+iptv-org 台湾_SJTV,http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
 iptv-org 台湾_Taiwan Indigenous TV (720p),https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 iptv-org 台湾_Taiwan Plus TV (1080p),https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 iptv-org 台湾_TVBS Asia (1080p),http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 iptv-org 台湾_TVBS News (TVBS新聞台) [Geo-blocked],http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 iptv-org 台湾_台视 (720p),http://162.19.247.76:22222/live/taishi/index.m3u8
 iptv-org 台湾_唯心電視 (480p),https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-iptv-org 台湾_MOMO TV (1080p),http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8
-iptv-org 台湾_Discovery Asia Taiwan (1080p),http://125.227.210.55:1004/VideoInput/play.ts
-iptv-org 台湾_EBC Foreign Movie,http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
-iptv-org 台湾_SJTV,http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
-iptv-org 台湾_PTS 3,http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
 •咪咕「移动」_睛彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 •咪咕「移动」_睛彩青少「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
 •咪咕「移动」_睛彩竞技「移动」,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
