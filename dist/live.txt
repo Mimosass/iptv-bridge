@@ -441,6 +441,8 @@ iptv-org 中国大陆_黑龙卫视 (1080p),http://223.110.245.170/PLTV/3/224/322
 iptv-org 中国大陆_黑龙江 (1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
 iptv-org 中国大陆_黑龙江 (1080p),http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
 iptv-org 中国大陆_黑龙江卫 (1080p),http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
+iptv-org 中国大陆_Yichang Sanxia Travel & Life Channel,https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
+iptv-org 中国大陆_Yichang Sanxia General Channel,https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 iptv-org 香港_Asian Drama (1080p),http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 iptv-org 香港_Bloomberg TV Asia (720p),https://bloomberg.com/media-manifest/streams/asia.m3u8
 iptv-org 香港_Bloomberg TV Asia Live Event (720p),https://bloomberg.com/media-manifest/streams/asia-event.m3u8
