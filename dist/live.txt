@@ -1,5 +1,5 @@
 iptv-org 中国大陆_Ando TV (1080p),http://play.kankanlive.com/live/1711956137852982.m3u8
-iptv-org 中国大陆_Anhui TV,https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+iptv-org 中国大陆_Anhui TV (1080p),https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
 iptv-org 中国大陆_Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
 iptv-org 中国大陆_Beijing Traffic Radio TV [Geo-blocked],http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
 iptv-org 中国大陆_Beijing Youth Radio [Geo-blocked],http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
@@ -115,6 +115,8 @@ iptv-org 中国大陆_Xinjiang TV 8,http://120.70.60.179:9901/tsfile/live/1002_1
 iptv-org 中国大陆_Xizang TV Chinese,https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 iptv-org 中国大陆_Xizang TV Tibetan,https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
 iptv-org 中国大陆_Xizang TV Tibetan,http://php.jdshipin.com:8880/xztv.php?id=zy
+iptv-org 中国大陆_Yichang Sanxia General Channel,https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
+iptv-org 中国大陆_Yichang Sanxia Travel & Life Channel,https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 iptv-org 中国大陆_Zhejiang Children's Channel,rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d
 iptv-org 中国大陆_Zhejiang Economic Channel,rtmp://splay-qukan.cztv.com/live/1792060094123056?auth_key=1886668326-379148691825438db322fe5c1545be6b-0-ae4e25174445c06889d2da4cf99c48af
 iptv-org 中国大陆_Zhejiang Education Technology Channel,rtmp://splay-qukan.cztv.com/live/1792059848292249?auth_key=1886667907-3d9b01248b784f0dad521e451a627376-0-810b24f67775043e86a4337d9660392c
@@ -441,8 +443,6 @@ iptv-org 中国大陆_黑龙卫视 (1080p),http://223.110.245.170/PLTV/3/224/322
 iptv-org 中国大陆_黑龙江 (1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
 iptv-org 中国大陆_黑龙江 (1080p),http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
 iptv-org 中国大陆_黑龙江卫 (1080p),http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
-iptv-org 中国大陆_Yichang Sanxia Travel & Life Channel,https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
-iptv-org 中国大陆_Yichang Sanxia General Channel,https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 iptv-org 香港_Asian Drama (1080p),http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 iptv-org 香港_Bloomberg TV Asia (720p),https://bloomberg.com/media-manifest/streams/asia.m3u8
 iptv-org 香港_Bloomberg TV Asia Live Event (720p),https://bloomberg.com/media-manifest/streams/asia-event.m3u8
