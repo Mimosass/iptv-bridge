@@ -81,15 +81,23 @@ https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN (1080p)" group-title="iptv-org 中国大陆",CGTN (1080p)
 https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
+#EXTINF:-1 tvg-name="CGTN Arabic (1080p)" group-title="iptv-org 中国大陆",CGTN Arabic (1080p)
+https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN Documentary (1080p)" group-title="iptv-org 中国大陆",CGTN Documentary (1080p)
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-name="CGTN Documentary (1080p)" group-title="iptv-org 中国大陆",CGTN Documentary (1080p)
 https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
+#EXTINF:-1 tvg-name="CGTN French (1080p)" group-title="iptv-org 中国大陆",CGTN French (1080p)
+https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN Global Biz (1080p)" group-title="iptv-org 中国大陆",CGTN Global Biz (1080p)
 https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-#EXTINF:-1 tvg-name="CGTN Spanish (720p)" group-title="iptv-org 中国大陆",CGTN Spanish (720p)
+#EXTINF:-1 tvg-name="CGTN Russian (1080p)" group-title="iptv-org 中国大陆",CGTN Russian (1080p)
+https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN Spanish (1080p)" group-title="iptv-org 中国大陆",CGTN Spanish (1080p)
+https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-name="CGTN Spanish (1080p)" group-title="iptv-org 中国大陆",CGTN Spanish (1080p)
 http://45.165.82.19/test/index.m3u8
-#EXTINF:-1 tvg-name="CGTN Spanish (720p)" group-title="iptv-org 中国大陆",CGTN Spanish (720p)
+#EXTINF:-1 tvg-name="CGTN Spanish (1080p)" group-title="iptv-org 中国大陆",CGTN Spanish (1080p)
 http://45.186.106.147:8880/play/a06f/index.m3u8
 #EXTINF:-1 tvg-name="Chaozhou Public Channel" group-title="iptv-org 中国大陆",Chaozhou Public Channel
 http://113.64.146.48:1688/hls/4/index.m3u8
