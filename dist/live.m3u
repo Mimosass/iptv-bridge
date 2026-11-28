@@ -35,8 +35,6 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cctv_4/live.livx/playlist.m3u8
 http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 tvg-name="CCTV-4K (1080p)" group-title="iptv-org 中国大陆",CCTV-4K (1080p)
 http://192.151.150.154/live/cctv8k.m3u8
-#EXTINF:-1 tvg-name="CCTV-4K (1080p)" group-title="iptv-org 中国大陆",CCTV-4K (1080p)
-http://198.204.240.250:82/live/cctv8k.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+ (1080p)" group-title="iptv-org 中国大陆",CCTV-5+ (1080p)
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV-5+ (1080p)" group-title="iptv-org 中国大陆",CCTV-5+ (1080p)
